@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hw4-aidansunbury/static/css/main.b6832693.css",
+    "main.js": "/hw4-aidansunbury/static/js/main.dfde255d.js",
+    "static/js/787.263e14e4.chunk.js": "/hw4-aidansunbury/static/js/787.263e14e4.chunk.js",
+    "index.html": "/hw4-aidansunbury/index.html",
+    "main.b6832693.css.map": "/hw4-aidansunbury/static/css/main.b6832693.css.map",
+    "main.dfde255d.js.map": "/hw4-aidansunbury/static/js/main.dfde255d.js.map",
+    "787.263e14e4.chunk.js.map": "/hw4-aidansunbury/static/js/787.263e14e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6832693.css",
+    "static/js/main.dfde255d.js"
+  ]
+}
